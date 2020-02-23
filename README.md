@@ -8,7 +8,6 @@ Recuerden instalar los paquetes de node
 
 ## COMANDOS APLICACION CONSOLA
 
-
 ## CREAR TAREA
 ** node app crear -d "Descripcion de Tarea a Crear"
 
